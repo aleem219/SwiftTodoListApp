@@ -7,16 +7,6 @@
 
 import SwiftUI
 
-/*
- CRUD FUNCTION
- 
- CREATE
- READ
- UPDATE
- DELETE
- 
- */
-
 struct ListView: View {
     
     @EnvironmentObject var  listViewModel: ListViewModel
